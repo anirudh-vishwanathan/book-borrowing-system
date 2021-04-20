@@ -1,1 +1,1 @@
-# book-borrowing-system
+Evaluating how many copies of the textbook the library would need with the current system and with the reduced loan period in order to achieve a success rate of 75% and how many copies to achieve a success rate of 85%. 
